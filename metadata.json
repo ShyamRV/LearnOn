@@ -1,0 +1,5 @@
+{
+  "name": "LearnOn_AI",
+  "description": "Transform static documents into engaging, podcast-style audio lessons using Gemini AI.",
+  "requestFramePermissions": []
+}
